@@ -9,9 +9,9 @@
   </a>
 <!--   <a href="https://harshal-jadhav.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1bQJfOs7pyOy1T3sBEVRlAXDk5RyPHOq-/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a> -->
+  <a href="https://drive.google.com/file/d/1PKrHyhzrlZLq_2VtOed_8RDo1p9UnIUK/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
