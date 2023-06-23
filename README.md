@@ -14,4 +14,20 @@
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<h1>About ME :-</h1>
+
+Hey there,
+
+I'm Aayush, a Java Developer based in Pune Maharashtra, Who is passionate about building user-friendly, easy-to-use applications, I like to explore new trends and learn new technologies. I'm Currently learning Java, SpringBoot, MySQL and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community.
+
+<h1> </h1>
+<div>
+
+## 🛠 My Toolkit :- 
+
+<div>
+
+ [![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,maven,mysql,html,css,git)](https://skills.thijs.gg)
+
+</div>
 
