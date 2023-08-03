@@ -10,7 +10,7 @@
 <!--   <a href="https://AayushViswase.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
   </a> -->
-  <a href="https://drive.google.com/file/d/1HQIGDKw9hqFwWgLtz3rfu1t2zVczhTWb/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1zexMff4u-yBC5S4zuxa6fdvuehhvmASo/view?usp=sharing">
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
